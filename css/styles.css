@@ -1,0 +1,16 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Montserat', 'sans-serif';
+}
+
+.about {
+    height: 100%;
+    width: 100%;
+    background-image: url('../img/space.jpg');
+    background-size: cover;
+}
